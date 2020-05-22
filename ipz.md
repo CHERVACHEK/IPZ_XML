@@ -1,4 +1,4 @@
-**Зміст** {#зміст .TOC-Heading}
+**Зміст** 
 =========
 
 [1. Теоретичні відомості 4]
@@ -115,7 +115,7 @@ OpenOffice і багатьма іншими.
 різноманітними системами і сприяють передачі т обробці об\'ємних даних,
 що складаються з табличнійструктури.
 
-![](https://github.com/CHERVACHEK/IPZ_XML/blob/master/ads.png)
+![][https://github.com/CHERVACHEK/IPZ_XML/blob/master/ads.png]
 
 Рис 1.1 -- Приклад CSV-таблиці
 
