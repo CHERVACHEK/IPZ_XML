@@ -277,7 +277,7 @@ XML має ряд переваг перед багатьма іншими фор
 інформації і об\'єднувати їх в документ XML - значущі фрагменти, які
 забезпечують структуру і організацію інформації.
 
-![][2]
+![][https://github.com/CHERVACHEK/IPZ_XML/blob/master/2.jpg]
 
 Рис. 1.2 -- Приклад XML-файлу
 
@@ -677,6 +677,6 @@ namespace ConsoleApp2 {
   [Додаток 1 18]: #додаток-1
   [1]: media/image1.png {width="6.129486001749782in"
   height="1.8181813210848643in"}
-  [2]: media/image2.jpeg
+  [2]: https://github.com/CHERVACHEK/IPZ_XML/blob/master/2.jpg
   [3]: media/image3.png {width="6.728472222222222in"
   height="0.2923611111111111in"}
