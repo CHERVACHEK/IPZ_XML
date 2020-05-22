@@ -115,7 +115,7 @@ OpenOffice і багатьма іншими.
 різноманітними системами і сприяють передачі т обробці об\'ємних даних,
 що складаються з табличнійструктури.
 
-![][https://github.com/CHERVACHEK/IPZ_XML/blob/master/ads.png]
+![](http://prntscr.com/sltjs5)
 
 Рис 1.1 -- Приклад CSV-таблиці
 
